@@ -20,3 +20,4 @@ jobs:
     needs: [ test-job1]
     steps: 
     - run: echo "ini adalah job deploy"
+    
